@@ -1,0 +1,18 @@
+1.2 - 5th Sept 2022
+  - UPDATE: Improved style
+
+1.1 - 15th Aug 2021
+  - UPDATE: Added CSS variables dark color
+  - UPDATE: Added instructions for default app settings in documentation
+  - UPDATE: Documentation style updated
+  - UPDATE: Used .on() event binding in echarts
+  - UPDATE: Used strict equality comparison in app.js (=== instead of ==) 
+  - UPDATE: Used .on() event binding in app.js
+  - UPDATE: Used strict equality comparison in calendar.js (=== instead of ==) 
+  - UPDATE: Removed unused code
+  - UPDATE: Moved page preloader code to separate file preloader.js
+  - UPDATE: Moved PWA code to separate file pwa.js
+  - UPDATE: Menu user image separate file
+
+1.0 - 20 Jan 2020
+  - Initial release
